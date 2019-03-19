@@ -11,8 +11,8 @@ ___
 
 Vérifier avec votre terminal si nodejs & npm sont bien installer. dans votre terminal :
 
-    - node --version
-    - npm --version
+   - node --version
+   - npm --version
 
 Et pour finir faire un `npm install` et `npm start` et rendez-vous sur l'adresse `http://localhost:9000`
 
